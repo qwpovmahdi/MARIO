@@ -16,5 +16,11 @@
         "key": "m",
         "expirydate": "23-11-2025",
         "Allowoffline": false
-    }
+    },
+        {
+        "device_id": "8edc6b06cc12b4e8",
+        "key": "ARTINF16",
+        "expirydate": "23-11-2025",
+        "Allowoffline": false
+        }
 ]
