@@ -22,5 +22,11 @@
         "key": "ARTINF16",
         "expirydate": "23-11-2025",
         "Allowoffline": false
-        }
+        },
+    {
+        "device_id": "ec45b6546ce9e377",
+        "key": "armin",
+        "expirydate": "23-11-2025",
+        "Allowoffline": false
+    }
 ]
