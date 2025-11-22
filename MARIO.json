@@ -24,9 +24,16 @@
         "Allowoffline": false
         },
     {
-        "device_id": "ec45b6546ce9e377",
+        "device_id": "ec45b6546c",
         "key": "armin",
         "expirydate": "23-11-2025",
+        "Allowoffline": false
+    },
+    
+    {
+        "device_id": "3ac1ff082984b1f9",
+        "key": "1388",
+        "expirydate": "24-11-2025",
         "Allowoffline": false
     }
 ]
