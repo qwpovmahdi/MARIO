@@ -35,5 +35,12 @@
         "key": "1388",
         "expirydate": "24-11-2025",
         "Allowoffline": false
-    }
+    },
+    
+        {
+        "device_id": "cdf252f13c9131d1",
+        "key": "MAMAD08",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
+        },
 ]
