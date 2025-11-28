@@ -61,4 +61,10 @@
         "expirydate": "28-11-2080",
         "Allowoffline": false
     },
+    {
+        "device_id": "949be0e052b0c4e7",
+        "key": "shervin.13800",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
+    },
 ]
