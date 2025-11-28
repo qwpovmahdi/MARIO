@@ -11,12 +11,7 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
-        "device_id": "5c1410cc0149633b",
-        "key": "m",
-        "expirydate": "28-11-2028",
-        "Allowoffline": false
-    },
+    
         {
         "device_id": "8edc6b06cc12b4e8",
         "key": "ARTINF16",
@@ -70,7 +65,7 @@
     
     {
         "device_id": "5c1410cc0149633b",
-        "key": "m",
+        "key": "mari",
         "expirydate": "28-11-2080",
         "Allowoffline": false
     },
