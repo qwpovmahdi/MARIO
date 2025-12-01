@@ -69,4 +69,11 @@
         "expirydate": "3-11-2087",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "347855707f20d725",
+        "key": "6860M1",
+        "expirydate": "5-12-2025",
+        "Allowoffline": false
+    },
 ]
