@@ -62,18 +62,17 @@
         "expirydate": "6-12-2025",
         "Allowoffline": false
     },
-    
-    {
-        "device_id": "",
-        "key": "",
-        "expirydate":"10"-12-2025",
-        "Allowoffline": false
-    },
-    
     {
         "device_id": "c3d13cef106a164d",
         "key": "SHAT KURD",
         "expirydate": "5-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "85a0a8806478a231",
+        "key": "1",
+        "expirydate": "6-12-2080",
+        "Allowoffline": false
+    },
+    
 ]
