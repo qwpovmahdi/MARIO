@@ -74,5 +74,11 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
+    {
+        "device_id": "ef349eead8c14374",
+        "key": "Reza123",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
     
 ]
