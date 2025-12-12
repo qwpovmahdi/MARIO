@@ -71,12 +71,18 @@
     {
         "device_id": "85a0a8806478a231",
         "key": "85a0a8806478a231",
-        "expirydate": "6-01-2080",
+        "expirydate": "6-01-2024",
         "Allowoffline": false
     },
     {
         "device_id": "ef349eead8c14374",
         "key": "Reza123",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
+        {
+        "device_id": "5c1410cc0149633b",
+        "key": "R",
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
