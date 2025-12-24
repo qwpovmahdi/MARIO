@@ -117,6 +117,18 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
+     {
+        "device_id": "8be5d0823b200206",
+        "key": "Horaz",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "3ac1ff082984b1f9",
+        "key": "25",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
         
     
     
