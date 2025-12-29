@@ -141,6 +141,12 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
+        {
+        "device_id": "5c1410cc0149633b",
+        "key": "myu",
+        "expirydate": "6-01-2090",
+        "Allowoffline": false
+    },
         
     
     
