@@ -135,7 +135,13 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
+    {
+        "device_id": "deea1766ba6ffe72",
+        "key": "DASN",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
         
     
     
-]
+
