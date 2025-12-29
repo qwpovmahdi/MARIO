@@ -147,7 +147,12 @@
         "expirydate": "6-01-2028",
         "Allowoffline": false
     },
-        
+    {
+        "device_id": "5c1410cc0149633b",
+        "key": "kima",
+        "expirydate": "31-12-2099",
+        "Allowoffline": true
+    },
     
     
 
