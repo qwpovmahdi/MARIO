@@ -80,12 +80,6 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
-    {
-        "device_id": "5c1410cc0149633b",
-        "key": "mari",
-        "expirydate": "6-01-2081",
-        "Allowoffline": false
-    },
         {
         "device_id": "8be5d0823b200206",
         "key": "Horaz 444",
@@ -129,30 +123,19 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
-     {
-        "device_id": "5c1410cc0149633b",
-        "key": "yo5",
-        "expirydate": "7-02-2084",
-        "Allowoffline": false
-    },
     {
         "device_id": "deea1766ba6ffe72",
         "key": "DASN",
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
-        {
-        "device_id": "5c1410cc0149633b",
-        "key": "mahdi",
-        "expirydate": "6-01-2028",
-        "Allowoffline": false
-    },
     {
         "device_id": "5c1410cc0149633b",
-        "key": "kima",
-        "expirydate": "31-12-2099",
+        "key": "R",
+        "expirydate": "5-02-2080",
         "Allowoffline": true
     },
+
     
     
 
