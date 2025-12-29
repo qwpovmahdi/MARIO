@@ -124,17 +124,12 @@
         "Allowoffline": false
     },
     {
-        "device_id": "deea1766ba6ffe72",
-        "key": "DASN",
+        "device_id": "5c1410cc0149633b",
+        "key": "mari",
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
-    {
-        "device_id": "5c1410cc0149633b",
-        "key": "R",
-        "expirydate": "5-02-2080",
-        "Allowoffline": true
-    },
+   
 
     
     
