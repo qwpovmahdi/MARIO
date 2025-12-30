@@ -146,6 +146,12 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
+    {
+        "device_id": "97003ae20c1b33cb",
+        "key": "MARTYEA",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
 ]
    
 
