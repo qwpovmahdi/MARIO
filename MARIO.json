@@ -152,6 +152,13 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "34dc3afb4adbeba7",
+        "key": "arya",
+        "expirydate": "6-01-2080",
+        "Allowoffline": false
+    },
 ]
    
 
