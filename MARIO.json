@@ -31,8 +31,7 @@
         "expirydate": "6-12-2025",
         "Allowoffline": false
     },
-    
-        {
+    {
         "device_id": "cdf252f13c9131d1",
         "key": "MAMAD08",
         "expirydate": "24-11-2025",
@@ -180,12 +179,6 @@
         "expirydate": "6-01-2080",
         "Allowoffline": false
     },
-        {
-        "device_id": "f399a2dd86aa95b8",
-        "key":"BENYX",
-        "expirydate": "6-01-2081",
-        "Allowoffline": false
-    },
     {
         "device_id": "f399a2dd86aa95b8",
         "key":"BENYX",
@@ -193,6 +186,18 @@
         "Allowoffline": false
     },
     {
+        "device_id": "f399a2dd86aa95b8",
+        "key":"BENYX",
+        "expirydate": "6-01-2081",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5c1410cc0149633b",
+        "key": "fati",
+        "expirydate": "6-12-2080",
+        "Allowoffline": false
+    },
+       {
         "device_id": "5c1410cc0149633b",
         "key": "fati",
         "expirydate": "6-12-2080",
