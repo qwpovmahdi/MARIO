@@ -29,6 +29,12 @@
         "expirydate": "19-01-2028",
         "Allowoffline": false
     },
+            {
+        "device_id": "f399a2dd86aa95b8",
+        "key": "r",
+        "expirydate": "19-01-2028",
+        "Allowoffline": false
+    },
 ]
    
 
