@@ -23,6 +23,12 @@
         "expirydate": "19-01-2028",
         "Allowoffline": false
     },
+        {
+        "device_id": "34dc3afb4adbeba7",
+        "key": "knight",
+        "expirydate": "19-01-2028",
+        "Allowoffline": false
+    },
 ]
    
 
