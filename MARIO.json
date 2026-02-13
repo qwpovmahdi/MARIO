@@ -41,6 +41,13 @@
         "expirydate": "19-01-2028",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "59d73f4f48372d59",
+        "key": "abol",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
