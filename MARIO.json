@@ -74,6 +74,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+       {
+        "device_id": "5c1410cc0149633b",
+        "key": "Ma",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
