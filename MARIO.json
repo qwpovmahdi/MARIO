@@ -87,6 +87,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+           {
+        "device_id": "5c8ea1c4828b9747",
+        "key": "R",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
