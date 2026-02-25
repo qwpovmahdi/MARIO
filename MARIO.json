@@ -80,6 +80,13 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    
+       {
+        "device_id": "6f1478f588392ee8",
+        "key": "MMD",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
