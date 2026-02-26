@@ -93,6 +93,18 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+       {
+        "device_id": "cb215b8f7f536b5c",
+        "key": "MehradVIP",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
+       {
+        "device_id": "e4ba4782b88247a5",
+        "key": "1948",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
