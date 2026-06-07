@@ -105,6 +105,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "a05923f0f74a0600",
+        "key": "notxter00",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
