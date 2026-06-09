@@ -123,6 +123,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "db32a2ae5ff74cf3",
+        "key": "No",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
