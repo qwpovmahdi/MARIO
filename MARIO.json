@@ -129,6 +129,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "adae66cf7cc98f2b",
+        "key": "WARLORD",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
