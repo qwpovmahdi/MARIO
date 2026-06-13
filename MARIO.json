@@ -147,6 +147,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "1a7aceb149e35477",
+        "key": "itachi",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
    
 
