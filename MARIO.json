@@ -153,6 +153,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "748a4c93fab81925",
+        "key": "mmd",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
     
 ]
    
