@@ -201,6 +201,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "3bb25483b2b0ed1b",
+        "key": "FOX",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
     
 ]
    
