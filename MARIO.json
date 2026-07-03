@@ -219,6 +219,12 @@
         "key": "erfan2008",
         "expirydate": "15-06-2028",
         "Allowoffline": false
+    },  
+    {
+        "device_id": "1f65e9e3826f9244",
+        "key": "plmnqazx",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
     },
     
 ]
