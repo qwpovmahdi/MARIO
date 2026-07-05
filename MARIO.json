@@ -226,6 +226,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "3f9c4b51b12fbe4d",
+        "key": "LEVI FF",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
     
 ]
    
