@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
+{
+        "device_id": "b7a4917b7f1b99be",
+        "key": "MTN",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    },
 ]
