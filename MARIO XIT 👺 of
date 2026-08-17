@@ -28,8 +28,19 @@
         "key": "MARI",
         "expirydate": "15-06-2028",
         "Allowoffline": false
-}
-
+},
+{
+        "device_id": "31ff62c3d13e3f4e",
+        "key": "CAPITAN",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "32cc951a8714f748",
+        "key": "CAPITAN2",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 
     
 ]
