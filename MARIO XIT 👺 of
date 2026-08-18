@@ -1,4 +1,4 @@
-[
+ [
     {
         "device_id": "device123",
         "key": "key12345",
@@ -44,6 +44,12 @@
 {
         "device_id": "f9c833c2e7e39ac2",
         "key": "CAP",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "1363995d2292af0e",
+        "key": "HUNTER",
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
