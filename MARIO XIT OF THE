@@ -5,27 +5,18 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+[
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+[
     {
         "device_id": "dbee8a1d70f45186",
-        "key": "k",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-   },
-   {
-        "device_id": "dcf28a97e9567184",
-        "key": "PAR",
-        "expirydate": "15-07-2028",
-        "Allowoffline": false
-    },
-       "device_id": "d264d385ebd73a2d",
-        "key": "AMIR",
-        "expirydate": "15-07-2028",
-        "Allowoffline": false
-    }،
-    {
-       "device_id": "dbee8a1d70f45186",
-        "key": "A",
-        "expirydate": "15-07-2028",
-        "Allowoffline": false
+        "key": "ke",
+        "expirydate": "31-1-2028",
+        "Allowoffline": true
     },
 ]
