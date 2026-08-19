@@ -65,6 +65,12 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "389c796ce1ba4617",
+        "key": "DIL",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 
 
     
