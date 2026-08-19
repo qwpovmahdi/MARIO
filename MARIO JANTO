@@ -1,4 +1,4 @@
-[
+ [
     {
         "device_id": "device123",
         "key": "key12345",
@@ -6,15 +6,86 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "dbee8a1d70f45186",
-        "key": "f",
-        "expirydate": "15-08-2039",
+        "key": "M",
+        "expirydate": "15-06-2028",
         "Allowoffline": false
-    }
+},
+{
+        "device_id": "b7a4917b7f1b99be",
+        "key": "MTN",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false 
+},
+{
+        "device_id": "b7a4917b7f1b99be",
+        "key": "MTN",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "990d5cb6166f1ef7",
+        "key": "MARI",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "31ff62c3d13e3f4e",
+        "key": "CAPITAN",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "32cc951a8714f748",
+        "key": "CAPITAN2",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "f9c833c2e7e39ac2",
+        "key": "CAP",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "1363995d2292af0e",
+        "key": "HUNTER",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "6ac2170236b0ea97",
+        "key": "HAJ",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "f3c36e757394cc8a",
+        "key": "MILAD",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "389c796ce1ba4617",
+        "key": "DIL",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "dcf28a97e9567184",
+        "key": "DI",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "dbee8a1d70f45186",
+        "key": "DI",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+
+
+
+
+    
 ]
