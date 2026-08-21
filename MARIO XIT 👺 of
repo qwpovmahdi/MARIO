@@ -95,4 +95,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "d53696912e19af54",
+        "key": "PAMKA",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
