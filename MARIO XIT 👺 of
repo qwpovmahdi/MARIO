@@ -119,4 +119,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "75e38c5981423849",
+        "key": "ZINT",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
