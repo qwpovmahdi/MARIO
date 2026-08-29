@@ -125,4 +125,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "707dc953e789d666",
+        "key": "CAIRO",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
