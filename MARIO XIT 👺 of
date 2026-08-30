@@ -131,4 +131,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "674ed16aef2fac98",
+        "key": "OBITO",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
