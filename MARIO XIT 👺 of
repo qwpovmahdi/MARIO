@@ -143,4 +143,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "d53aee33ecd599c6",
+        "key": "FARHAD",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
