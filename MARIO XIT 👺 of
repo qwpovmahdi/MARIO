@@ -191,4 +191,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "197a096c5e4494a9",
+        "key": "Mersad",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
