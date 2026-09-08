@@ -197,4 +197,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "b324fb8970e91b3b",
+        "key": "XL",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
