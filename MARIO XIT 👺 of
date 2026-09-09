@@ -203,4 +203,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "29abc8df229fab40",
+        "key": "XL",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
