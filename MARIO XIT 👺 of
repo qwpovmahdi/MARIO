@@ -221,4 +221,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "ed336ccb315a2994",
+        "key": "mar",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
