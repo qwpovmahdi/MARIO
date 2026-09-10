@@ -215,4 +215,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "dbee8a1d70f45186",
+        "key": "mari",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
