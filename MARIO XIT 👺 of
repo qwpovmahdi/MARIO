@@ -47,4 +47,16 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "29abc8df229fab40",
+        "key": "uc",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
+        "device_id": "92273e7ea1105755",
+        "key": "sh",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
