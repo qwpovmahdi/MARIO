@@ -36,8 +36,14 @@
         "Allowoffline": false
 },
 {
+        "device_id": "f90807313174662e",
+        "key": "ki",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
+{
         "device_id": "",
-        "key": "ka",
+        "key": "ki",
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
