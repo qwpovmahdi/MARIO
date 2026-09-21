@@ -77,4 +77,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "216a7253d78a5e83",
+        "key": "CAPi",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
