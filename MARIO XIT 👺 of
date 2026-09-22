@@ -83,4 +83,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "52edc91a225b3a1a",
+        "key": "CA",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
