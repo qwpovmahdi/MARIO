@@ -95,4 +95,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "7163495dfb8a801d",
+        "key": "SD",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
