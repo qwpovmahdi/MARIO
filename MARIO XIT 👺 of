@@ -101,4 +101,10 @@
         "expirydate": "15-06-2028",
         "Allowoffline": false
 },
+{
+        "device_id": "cf6a09b2361590e9",
+        "key": "Me",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+},
 ]
